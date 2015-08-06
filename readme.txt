@@ -10,7 +10,7 @@ OneDS Maintenance Mode
 OneDS Hello
 
 == Screenshots ==
-1. screenshot.jpg
+1. screenshot-1.jpg
 
 == Installation ==
 1. Upload \"OneDS_start\" folder to the \"/wp-content/plugins/\" directory.
